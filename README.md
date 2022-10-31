@@ -5,7 +5,7 @@
 - 🌱 Estudando React.js 
 - 💬 Pergumte-me sobre inovação,criativade e pensamento global para sustentabilizar processos através de softwares.
 - 📫 Contate-me no email: gustavohr.rossi@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele.
 👁‍🗨🗯💭😀 estou a disposição para criar projetos open-sources com ideais em evolução das pessoas.
 
 
