@@ -6,7 +6,7 @@
 - 💬 Pergumte-me sobre inovação,criativade e pensamento global para sustentabilizar processos através de softwares.
 - 📫 Contate-me no email: gustavohr.rossi@gmail.com
 - 😄 Pronomes: ele/dele.
-👁‍🗨🗯💭😀 estou a disposição para criar projetos open-sources com ideais em evolução das pessoas.
+- 👁‍🗨🗯💭😀 estou a disposição para criar projetos open-sources com ideais em evolução das pessoas.
 
 
 <div align="center">
